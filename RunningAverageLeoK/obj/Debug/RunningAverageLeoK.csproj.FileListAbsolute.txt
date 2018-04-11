@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RunningAverageLeoK\RunningAverageLeoK\bin\Debug\RunningAverageLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RunningAverageLeoK\RunningAverageLeoK\bin\Debug\RunningAverageLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RunningAverageLeoK\RunningAverageLeoK\bin\Debug\RunningAverageLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RunningAverageLeoK\RunningAverageLeoK\obj\Debug\RunningAverageLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RunningAverageLeoK\RunningAverageLeoK\obj\Debug\RunningAverageLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RunningAverageLeoK\RunningAverageLeoK\obj\Debug\RunningAverageLeoK.frmRunningAverageLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RunningAverageLeoK\RunningAverageLeoK\obj\Debug\RunningAverageLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RunningAverageLeoK\RunningAverageLeoK\obj\Debug\RunningAverageLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RunningAverageLeoK\RunningAverageLeoK\obj\Debug\RunningAverageLeoK.pdb
